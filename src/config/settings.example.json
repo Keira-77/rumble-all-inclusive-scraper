@@ -1,0 +1,19 @@
+{
+  "http": {
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) RumbleScraper/1.0"
+    },
+    "proxy": null,
+    "timeout": 20,
+    "max_retries": 3
+  },
+  "scraper": {
+    "max_videos_per_channel": 50,
+    "max_videos_per_playlist": 100,
+    "max_results_per_search": 50
+  },
+  "output": {
+    "format": "json",
+    "path": "data/sample_output.json"
+  }
+}
