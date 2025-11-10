@@ -1,0 +1,27 @@
+[
+  {
+    "type": "video",
+    "url": "https://rumble.com/v5k5rcr-donald-trump-tells-joe-rogan-his-nfl-best-bets-for-this-weekend.html",
+    "searchKeyword": "trump",
+    "playlistName": null,
+    "trendingCategory": "This Week"
+  },
+  {
+    "type": "channel",
+    "url": "https://rumble.com/c/GameOnShow"
+  },
+  {
+    "type": "playlist",
+    "url": "https://rumble.com/playlist/xyz123-example-playlist.html"
+  },
+  {
+    "type": "search",
+    "url": "https://rumble.com/search/video?q=trump",
+    "searchKeyword": "trump"
+  },
+  {
+    "type": "trending",
+    "url": "https://rumble.com/browse/trending",
+    "trendingCategory": "Trending"
+  }
+]
