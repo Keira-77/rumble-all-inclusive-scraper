@@ -1,0 +1,62 @@
+[
+  {
+    "videoTitle": "Donald Trump tells Joe Rogan his NFL best bets",
+    "videoUrl": "https://rumble.com/v5k5rcr-donald-trump-tells-joe-rogan-his-nfl-best-bets-for-this-weekend.html",
+    "channelName": "GameOnShow",
+    "channelUrl": "https://rumble.com/c/GameOnShow",
+    "views": 129384,
+    "likes": 4520,
+    "comments": 134,
+    "revenue": "$45.23",
+    "uploadDate": "2024-10-15T18:30:00Z",
+    "description": "Donald Trump talks with Joe Rogan about his NFL picks this weekend.",
+    "playlistName": null,
+    "searchKeyword": "trump",
+    "trendingCategory": "This Week"
+  },
+  {
+    "videoTitle": "Sample Channel Video 1",
+    "videoUrl": "https://rumble.com/v-channel-video-1.html",
+    "channelName": "SampleChannel",
+    "channelUrl": "https://rumble.com/c/SampleChannel",
+    "views": 10425,
+    "likes": null,
+    "comments": null,
+    "revenue": null,
+    "uploadDate": null,
+    "description": null,
+    "playlistName": null,
+    "searchKeyword": null,
+    "trendingCategory": null"
+  },
+  {
+    "videoTitle": "Sample Playlist Video",
+    "videoUrl": "https://rumble.com/v-playlist-video.html",
+    "channelName": "PlaylistChannel",
+    "channelUrl": "https://rumble.com/c/PlaylistChannel",
+    "views": 5023,
+    "likes": null,
+    "comments": null,
+    "revenue": null,
+    "uploadDate": null,
+    "description": null,
+    "playlistName": "Example Playlist",
+    "searchKeyword": null,
+    "trendingCategory": null
+  },
+  {
+    "videoTitle": "Search Result Example",
+    "videoUrl": "https://rumble.com/v-search-result.html",
+    "channelName": "SearchChannel",
+    "channelUrl": "https://rumble.com/c/SearchChannel",
+    "views": 8743,
+    "likes": null,
+    "comments": null,
+    "revenue": null,
+    "uploadDate": null,
+    "description": null,
+    "playlistName": null,
+    "searchKeyword": "trump",
+    "trendingCategory": null
+  }
+]
